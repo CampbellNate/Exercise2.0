@@ -1,0 +1,5 @@
+print('Nathan Campbell')
+print('1/22/23')
+print('At what size of a project should you start using version management software?')
+print('I think that version management software can be helpful no matter the size of the team working on it. I think that the software would become necessary for more than a dozen workers. I think that at that size if people were working on it simultaneously without a version management software errors would happen often and many issues would spring up with people trying to change the same things at the same time, or possibly issues with compatibility between the code. With teams smaller than this I think that it would be helpful, but not necessary as the team is still small enough that the issues would not come up as much or be as impactful. Version management software will be useful at all sizes so it may be worth it to use even on small teams to be more comfortable with the software, or to ensure no issues on the off chance that they come up.'
+     )
